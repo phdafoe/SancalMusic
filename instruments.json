@@ -1,0 +1,203 @@
+[
+  {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "JAGUAR",
+    "name": "JOHNNY MARR JAGUAR",
+    "instrumentsCompanyName": "FENDER",
+    "notes": "Fender is very proud to introduce the Johnny Marr signature Jaguar® guitar. Marr is best known, of course, as the strikingly dynamic and influential anti-hero guitarist-arranger-all-around-musical-wunderkind behind Manchester quartet the Smiths, which virtually redefined and ruled U.K. pop throughout the 1980s. A master of melody, layering and texture, Marr has always brought his own instantly identifiable ringing, jangling genius to the proceedings, as he has done in post-Smiths stints with The The, Electronic, the Pretenders and Johnny Marr and the Healers, and right up to the present with Modest Mouse, the Cribs and innumerable guest appearances.",
+    "combinationInstrument": [
+      {
+        "instrument": "90% ELECTRIC"
+      },
+      {
+        "instrument": "10% CLASSIC MODEL"
+      }
+    ],
+    "typeInstrument": "Guitar",
+    "instrumentCompanyWeb": "http://www.fender.com",
+    "picture": "http://assets.fender.com/frl/099477b33d1538fc4c6cce76f86a21f4/generated/86ceb3c861ac3d7b0737b2ccde488ca3.png",
+    "ratingInstrument": 4
+  },
+  
+ 
+  
+  {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "CATALINA CLUB VINTAGE CLASSIC",
+    "name": "CATALINA CLUB",
+    "instrumentsCompanyName": "GRETSCH",
+    "notes": "We have teamed up with Sabian cymbals and Vic Firth sticks to create the new Gretsch Energy Series. Modelled around a 7 ply poplar shell and fitted with Gretsch by Remo®drumheads, the kits come complete with Gretsch hardware pack and Sabian SBR cymbals. Gretsch Energy is packed with features and perfect for the first time drum set buyer.",
+    "combinationInstrument": [
+      {
+        "instrument": "90% ELECTRIC"
+      },
+      {
+        "instrument": "10% CLASSIC MODEL"
+      }
+    ],
+    "typeInstrument": "Drum",
+    "instrumentCompanyWeb": "http://www.gretschdrums.com/?fa=drums&sid=702#specs",
+    "picture": "http://www.gretschdrums.com/pics/series/GE1-BLACK.jpg",
+    "ratingInstrument": 3
+  },
+  
+
+
+  
+    {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "ROLAND PREMIERES",
+    "name": "V-PIANO CLASSIC",
+    "instrumentsCompanyName": "V-PIANO",
+    "notes": "With its groundbreaking approach to grand-piano modeling, and incredibly realistic sound, touch, and response, Roland’s V-Piano® has earned many international awards and accolades since its debut in 2009. It has become the #1 choice for many of the most discerning pianists on the planet. So how does the V-Piano evolve? Introducing the V-Piano Grand! Built into an elegant grand-piano cabinet, and with a unique, multi-channel sound system that reacts naturally and intelligently to your performance, this drumsVintageexquisite instrument blurs the line between digital and acoustic worlds. Stepping up from the previous generation, the V-Piano Grand’s sound generator has been further refined, and new piano models have been added to the onboard library. Welcome to a new world of performance, sophistication, and musical innovation.",
+    "combinationInstrument": [
+      {
+        "instrument": "90% CLASSIC"
+      },
+      {
+        "instrument": "10% ELECTRONIC"
+      }
+    ],
+    "typeInstrument": "Piano",
+    "instrumentCompanyWeb": "http://www.rolandus.com/products/details/1158/articles/",
+    "picture": "http://cdn.roland.com/products/v-piano_grand/features/images/design_hero.jpg",
+    "ratingInstrument": 5
+  },
+
+
+
+    
+    {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "MEMPHIS",
+    "name": "GIBSON MEMPHIS",
+    "instrumentsCompanyName": "GIBSON",
+    "notes": "One of the guitars that kick-started rock and roll gains an elegant '60s cherry twist, with traditional 'bail' tailpiece, MHS P-90 pickups, and a vintage-certified look and playing feel. A Cherry Finish Adds a Luscious Twist to a '50s Classic. The sound waves resonate within the hollow airspace of the Maple veneered Body, around the F-holes, and throughout the solid glue joints.",
+    "combinationInstrument": [
+      {
+        "instrument": "90% CLASSIC"
+      },
+      {
+        "instrument": "10% ELECTRONIC"
+      }
+    ],
+    "typeInstrument": "Guitar",
+    "instrumentCompanyWeb": "http://www2.gibson.com/Gibson.aspx",
+    "picture": "http://images.gibson.com/Products/Electric-Guitars/2015-Memphis/1952-ES-295/ES29515SCNH1_MAIN_HERO_01.jpg",
+    "ratingInstrument": 5
+  },
+
+
+
+    
+    {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "IBANEZ MESHUGGAH",
+    "name": "M8M",
+    "instrumentsCompanyName": "IBANEZ",
+    "notes": "Formed in the college town of Umeå in northern Sweden in 1987, MESHUGGAH have spent the last twenty years and cumulative thirteen releases developing, exploring, and redefining their complex, inimitable approach on the art of expressing the music they hear in their heads. A group that has not sounded like anyone else in over seventeen years, MESHUGGAH are one of the few purely and honestly lateral-thinking forces genuinely dedicated to pushing the boundaries of extreme music simply because doing so comes naturally to them. Unafraid to take risks and tackle new experiences, they create albums you can listen to a decade later and discover things you never noticed before. The mystical lore surrounding them pertains to the musical calculus of their odd-cycle time signatures shifting around common 4/4 time; therefore, it isn't shocking to see some of metal's biggest names standing in the wings at MESHUGGAH shows, shaking their heads at the band's down-tuned, groove-laden, and precisely performed polyrhythms that never veer out of control. ",
+    "combinationInstrument": [
+      {
+        "instrument": "90% ELECTRIC"
+      },
+      {
+        "instrument": "10% CLASSIC"
+      }
+    ],
+    "typeInstrument": "Guitar",
+    "instrumentCompanyWeb": "http://www.ibanez.co.jp/eu/index.php",
+    "picture": "http://www.ibanez.co.jp/products/images/sig/models/M80M_WK_1P_01.png",
+    "ratingInstrument": 4
+  },
+
+
+
+    
+   {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "EXHBITION A/E W/APHEX",
+    "name": "RESURRECTION",
+    "instrumentsCompanyName": "DEAN",
+    "notes": "For over 35 years, Dean Guitars has been the player's choice for musicians all over the world. Our Acoustic Guitars are known for their impeccable sound, quality, playability, and build construction. No matter what your taste or style is, Dean offers a choice. Define your sound and style with a Dean in your hands, For almost 40 years, Dean Guitars has been the benchmark for musicians of all tastes and styles. With an eye popping and absolutely staggering collection of instruments, spanning almost every conceivable genre, guitar players don't have to venture out there alone. Define your sound and style with a Dean in your hands ENDLESS POSSIBILITIES. INFINITE HORIZONS. THIS IS YOUR GUITAR BRAND.",
+    "combinationInstrument": [
+      {
+        "instrument": "100% CLASSIC"
+      },
+      {
+        "instrument": "0% ELECTRIC"
+      } 
+    ],
+    "typeInstrument": "Guitar",
+    "instrumentCompanyWeb": "http://www.deanguitars.com/query?upc=819998175177",
+    "picture": "http://www.deanguitars.com/images/productimages/exres/exres.png",
+    "ratingInstrument": 5
+  },
+  
+  
+  
+  
+   {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "MD 50 12",
+    "name": "DREADNAUGHT",
+    "instrumentsCompanyName": "CRAFTER",
+    "notes": "Now Available in Stores: The Dragon Rose After much anticipation following it’s debut at NAMM in January, the first Dragon Roses are hitting store shelves this month in the US. The Dragon Rose celebrates 42 years of quality guitar building from Crafter.   The most striking feature is the dragon inlay on the neck.  Hand crafted from mother of pearl and abalone, the dragon slithers up from the 19th to the 7th fret.   A ring of fire sound hole design complements the dragon on the rosewood neck. The guitar has a grand auditorium body, with a solid Engelmann Spruce top, solid rosewood back, and rosewood sides.  Deluxe 18:1 Gold Bean Button Tuners, and a chromatic tuner in the preamp ensure that while the guitar looks sharp, you’ll always be in tune.",
+    "combinationInstrument": [
+      {
+        "instrument": "100% CLASSIC"
+      },
+      {
+        "instrument": "0% ELECTRIC"
+      } 
+    ],
+    "typeInstrument": "Guitar",
+    "instrumentCompanyWeb": "http://crafterusa.com",
+    "picture": "http://crafterusa.com/wp-content/uploads/2012/02/MD-50-12_N.jpg",
+    "ratingInstrument": 3
+  },
+  
+    
+  {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "VBA",
+    "name": "VBA-Ltd-Barbwire",
+    "instrumentsCompanyName": "PEARL",
+    "notes": "Pearl is introducing two new Limited Edition VBA drumset exclusively for Europe. Vision VBA delivers full Pearl Birch quality in Artisan II finishes you’ll have to see to believe. Each VBA drumset is equipped with a special designed Artisan II finish by Pearl. The sets come in different setups, one is a double bass drum metal setup and the other one is a 'one up one down setup'. All will be complemented with our 930-Series Hardware Pack. Based on the new Vision-family formula, VBA drumsets feature Birch Ply shells, a striking new Badge design, and rock solid drum hardware. The 457 Barbwire has a striking barbwire design, which looks rough, cruel and strong. Together with the double bass drums 22x18, the set consists of 10x8, 12x9 and 13x10 Toms, 14x14 and 16x16 Floor Toms and a 14x5.5 Snare drum, all equipped with chrome drum hardware and black bass drum heads. The set also includes 930 Series hardware with 2 Boom Cymbal stands, Straight Stand, Hi-Hat stand, Snare Stand, Demon Style 930 pedals and Hi-hat adapter to mount the Hi-hat stand to the Bass drum, a must for the double bass drum player.",
+    "combinationInstrument": [
+      {
+        "instrument": "90% CLASSIC"
+      },
+      {
+        "instrument": "10% ELECTRIC"
+      } 
+    ],
+    "typeInstrument": "Drum",
+    "instrumentCompanyWeb": "http://www.pearleurope.com/home.aspx",
+    "picture": "http://www.pearleurope.com/upl/1/default/img/VBA_Barbwire(1).jpg",
+    "ratingInstrument": 5
+  },
+  
+  
+  
+  {
+    "_id": "51c2f266e4b06ff86210379c",
+    "markInstrument": "WSBN",
+    "name": "SATIN BLACK WALNUT",
+    "instrumentsCompanyName": "TAMA",
+    "notes": "STAR is the new flagship line for TAMA drums. It takes the knowledge and research we cultivated for the Starclassic series to the next level, by reexamining every detail to enhance shell resonance. Walnut has long been favored by furniture makers for both its beauty and durability. As a drum shell material, Walnut's naturally EQ'ed tone has been praised by the drum community for both the stage and the studio. The new STAR Walnut shells project booming low end with enough cut to be heard through any mix.",
+    "combinationInstrument": [
+      {
+        "instrument": "90% CLASSIC"
+      },
+      {
+        "instrument": "10% ELECTRIC"
+      } 
+    ],
+    "typeInstrument": "Drum",
+    "instrumentCompanyWeb": "http://www.tamadrum.co.jp/product/drum_data.php?year=2015&area=3&id=13",
+    "picture": "http://www.tamadrum.co.jp/product/images/drum_kit/gallery/TW42RZS-WSBN.jpg",
+    "ratingInstrument": 5
+  }
+
+  
+]

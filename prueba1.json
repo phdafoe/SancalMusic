@@ -1,0 +1,19 @@
+{
+	"name":"JOHNNY MARR JAGUAR",
+	"instrumentsCompanyName":"FENDER",
+	"typeInstrument":"ELECTRIC GUITAR",
+	"markInstrument":"JAGUAR",
+	"combinationInstrument":
+	[
+		{
+			"combinationInstrument":"50% ELECTRIC",			
+		},
+		{
+			"combinationInstrument":"50% CLASSIC",
+		}	
+	],
+	"instrumentCompanyWeb":"http://www.fender.com/es-ES/guitars/jaguar/johnny-marr-jaguar-rosewood-fingerboard-olympic-white/",
+	"notes":"Fender is very proud to introduce the Johnny Marr signature Jaguar® guitar. Marr is best known, of course, as the strikingly dynamic and influential anti-hero guitarist-arranger-all-around-musical-wunderkind behind Manchester quartet the Smiths, which virtually redefined and ruled U.K. pop throughout the 1980s. A master of melody, layering and texture, Marr has always brought his own instantly identifiable ringing, jangling genius to the proceedings, as he has done in post-Smiths stints with The The, Electronic, the Pretenders and Johnny Marr and the Healers, and right up to the present with Modest Mouse, the Cribs and innumerable guest appearances.",
+	"ratingInstrument":4,
+	"photo":"http://www.fender.com/es-ES/guitars/jaguar/johnny-marr-jaguar-rosewood-fingerboard-olympic-white/"
+}

@@ -7,24 +7,68 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		636B60A41A3DF9E000FF0595 /* guitar.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60A31A3DF9E000FF0595 /* guitar.png */; };
+		636B60A81A3DFB5200FF0595 /* ICOWebViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 636B60A61A3DFB5200FF0595 /* ICOWebViewController.m */; };
+		636B60A91A3DFB5200FF0595 /* ICOWebViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 636B60A71A3DFB5200FF0595 /* ICOWebViewController.xib */; };
+		636B60B61A3E3CF000FF0595 /* fondo_app.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60B51A3E3CF000FF0595 /* fondo_app.png */; };
+		636B60B81A3E3F7600FF0595 /* Launch_app.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60B71A3E3F7600FF0595 /* Launch_app.png */; };
+		636B60D31A3F984000FF0595 /* icon_3@2x-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60CD1A3F984000FF0595 /* icon_3@2x-1.png */; };
+		636B60D41A3F984000FF0595 /* icon_3@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60CE1A3F984000FF0595 /* icon_3@2x.png */; };
+		636B60D51A3F984000FF0595 /* icon_4@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60CF1A3F984000FF0595 /* icon_4@2x.png */; };
+		636B60D61A3F984000FF0595 /* icon_5@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60D01A3F984000FF0595 /* icon_5@2x.png */; };
+		636B60D71A3F984000FF0595 /* icon@2x-1.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60D11A3F984000FF0595 /* icon@2x-1.png */; };
+		636B60D81A3F984000FF0595 /* icon@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 636B60D21A3F984000FF0595 /* icon@2x.png */; };
+		636B60DA1A3FA63A00FF0595 /* drum.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 636B60D91A3FA63A00FF0595 /* drum.jpg */; };
+		636B60DC1A3FA87700FF0595 /* v-piano.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 636B60DB1A3FA87700FF0595 /* v-piano.jpg */; };
+		636B60DF1A40AAD200FF0595 /* ICOStoreModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 636B60DE1A40AAD200FF0595 /* ICOStoreModel.m */; };
+		636B60E21A40D7BF00FF0595 /* ICOStoreTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 636B60E11A40D7BF00FF0595 /* ICOStoreTableViewController.m */; };
+		638C33031A4A172600780550 /* sectionBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 638C32F91A4A172600780550 /* sectionBackground.png */; };
+		638C33041A4A172600780550 /* sectionBackground@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 638C32FA1A4A172600780550 /* sectionBackground@2x.png */; };
+		638C33891A4DD80200780550 /* land_Launch.png in Resources */ = {isa = PBXBuildFile; fileRef = 638C33881A4DD80200780550 /* land_Launch.png */; };
+		638C338B1A4DD88300780550 /* Images-2.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 638C338A1A4DD88300780550 /* Images-2.xcassets */; };
+		638C338D1A4DDA8F00780550 /* drum.png in Resources */ = {isa = PBXBuildFile; fileRef = 638C338C1A4DDA8F00780550 /* drum.png */; };
+		638C338F1A4DDADC00780550 /* v-piano.png in Resources */ = {isa = PBXBuildFile; fileRef = 638C338E1A4DDADC00780550 /* v-piano.png */; };
 		63B468CA1A3470590060575B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B468C91A3470590060575B /* main.m */; };
 		63B468CD1A3470590060575B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B468CC1A3470590060575B /* AppDelegate.m */; };
 		63B468CF1A3470590060575B /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 63B468CE1A3470590060575B /* Images.xcassets */; };
 		63B468D21A3470590060575B /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63B468D01A3470590060575B /* LaunchScreen.xib */; };
-		63B468DE1A34705A0060575B /* SancalMusicTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B468DD1A34705A0060575B /* SancalMusicTests.m */; };
+		63B468E91A3470810060575B /* iCoInstrumentsModel.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B468E81A3470810060575B /* iCoInstrumentsModel.m */; };
+		63B468EE1A34865F0060575B /* ICOINstrumentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 63B468EC1A34865F0060575B /* ICOINstrumentViewController.m */; };
+		63B468EF1A34865F0060575B /* ICOINstrumentViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63B468ED1A34865F0060575B /* ICOINstrumentViewController.xib */; };
+		63B468F21A3505080060575B /* star.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63B468F11A3505080060575B /* star.jpg */; };
+		63B468F71A35DE4A0060575B /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63B468F61A35DE4A0060575B /* MessageUI.framework */; };
+		63B468FA1A35E0020060575B /* NORMAL_ICON.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 63B468F91A35E0020060575B /* NORMAL_ICON.jpg */; };
+		63DF0D1A1A6AB6830058B588 /* ICOMapLocalizationViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DF0D181A6AB6830058B588 /* ICOMapLocalizationViewController.m */; };
+		63DF0D1B1A6AB6830058B588 /* ICOMapLocalizationViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 63DF0D191A6AB6830058B588 /* ICOMapLocalizationViewController.xib */; };
+		63DF0D1E1A6AB8200058B588 /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 63DF0D1C1A6AB8190058B588 /* MapKit.framework */; };
+		63DF0D211A6ABE930058B588 /* ICOMarkAnnotation.m in Sources */ = {isa = PBXBuildFile; fileRef = 63DF0D201A6ABE930058B588 /* ICOMarkAnnotation.m */; };
 /* End PBXBuildFile section */
 
-/* Begin PBXContainerItemProxy section */
-		63B468D81A34705A0060575B /* PBXContainerItemProxy */ = {
-			isa = PBXContainerItemProxy;
-			containerPortal = 63B468BC1A3470590060575B /* Project object */;
-			proxyType = 1;
-			remoteGlobalIDString = 63B468C31A3470590060575B;
-			remoteInfo = SancalMusic;
-		};
-/* End PBXContainerItemProxy section */
-
 /* Begin PBXFileReference section */
+		636B60A31A3DF9E000FF0595 /* guitar.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = guitar.png; sourceTree = "<group>"; };
+		636B60A51A3DFB5200FF0595 /* ICOWebViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICOWebViewController.h; sourceTree = "<group>"; };
+		636B60A61A3DFB5200FF0595 /* ICOWebViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICOWebViewController.m; sourceTree = "<group>"; };
+		636B60A71A3DFB5200FF0595 /* ICOWebViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ICOWebViewController.xib; sourceTree = "<group>"; };
+		636B60B51A3E3CF000FF0595 /* fondo_app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fondo_app.png; sourceTree = "<group>"; };
+		636B60B71A3E3F7600FF0595 /* Launch_app.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Launch_app.png; sourceTree = "<group>"; };
+		636B60CD1A3F984000FF0595 /* icon_3@2x-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon_3@2x-1.png"; path = "SancalMusic/Images.xcassets/AppIcon.appiconset/icon_3@2x-1.png"; sourceTree = "<group>"; };
+		636B60CE1A3F984000FF0595 /* icon_3@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon_3@2x.png"; path = "SancalMusic/Images.xcassets/AppIcon.appiconset/icon_3@2x.png"; sourceTree = "<group>"; };
+		636B60CF1A3F984000FF0595 /* icon_4@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon_4@2x.png"; path = "SancalMusic/Images.xcassets/AppIcon.appiconset/icon_4@2x.png"; sourceTree = "<group>"; };
+		636B60D01A3F984000FF0595 /* icon_5@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon_5@2x.png"; path = "SancalMusic/Images.xcassets/AppIcon.appiconset/icon_5@2x.png"; sourceTree = "<group>"; };
+		636B60D11A3F984000FF0595 /* icon@2x-1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon@2x-1.png"; path = "SancalMusic/Images.xcassets/AppIcon.appiconset/icon@2x-1.png"; sourceTree = "<group>"; };
+		636B60D21A3F984000FF0595 /* icon@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "icon@2x.png"; path = "SancalMusic/Images.xcassets/AppIcon.appiconset/icon@2x.png"; sourceTree = "<group>"; };
+		636B60D91A3FA63A00FF0595 /* drum.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = drum.jpg; sourceTree = "<group>"; };
+		636B60DB1A3FA87700FF0595 /* v-piano.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "v-piano.jpg"; sourceTree = "<group>"; };
+		636B60DD1A40AAD200FF0595 /* ICOStoreModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICOStoreModel.h; sourceTree = "<group>"; };
+		636B60DE1A40AAD200FF0595 /* ICOStoreModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICOStoreModel.m; sourceTree = "<group>"; };
+		636B60E01A40D7BF00FF0595 /* ICOStoreTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICOStoreTableViewController.h; sourceTree = "<group>"; };
+		636B60E11A40D7BF00FF0595 /* ICOStoreTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICOStoreTableViewController.m; sourceTree = "<group>"; };
+		638C32F91A4A172600780550 /* sectionBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = sectionBackground.png; sourceTree = "<group>"; };
+		638C32FA1A4A172600780550 /* sectionBackground@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "sectionBackground@2x.png"; sourceTree = "<group>"; };
+		638C33881A4DD80200780550 /* land_Launch.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = land_Launch.png; path = SOURCES/land_Launch.png; sourceTree = "<group>"; };
+		638C338A1A4DD88300780550 /* Images-2.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Images-2.xcassets"; sourceTree = "<group>"; };
+		638C338C1A4DDA8F00780550 /* drum.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = drum.png; sourceTree = "<group>"; };
+		638C338E1A4DDADC00780550 /* v-piano.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "v-piano.png"; sourceTree = "<group>"; };
 		63B468C41A3470590060575B /* SancalMusic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SancalMusic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		63B468C81A3470590060575B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63B468C91A3470590060575B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -32,9 +76,22 @@
 		63B468CC1A3470590060575B /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		63B468CE1A3470590060575B /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		63B468D11A3470590060575B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		63B468D71A34705A0060575B /* SancalMusicTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SancalMusicTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		63B468DC1A34705A0060575B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		63B468DD1A34705A0060575B /* SancalMusicTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SancalMusicTests.m; sourceTree = "<group>"; };
+		63B468E71A3470810060575B /* iCoInstrumentsModel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iCoInstrumentsModel.h; sourceTree = "<group>"; };
+		63B468E81A3470810060575B /* iCoInstrumentsModel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iCoInstrumentsModel.m; sourceTree = "<group>"; };
+		63B468EB1A34865F0060575B /* ICOINstrumentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICOINstrumentViewController.h; sourceTree = "<group>"; };
+		63B468EC1A34865F0060575B /* ICOINstrumentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICOINstrumentViewController.m; sourceTree = "<group>"; };
+		63B468ED1A34865F0060575B /* ICOINstrumentViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ICOINstrumentViewController.xib; sourceTree = "<group>"; };
+		63B468F11A3505080060575B /* star.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = star.jpg; sourceTree = "<group>"; };
+		63B468F61A35DE4A0060575B /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
+		63B468F91A35E0020060575B /* NORMAL_ICON.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = NORMAL_ICON.jpg; sourceTree = "<group>"; };
+		63DF0D171A6AB6830058B588 /* ICOMapLocalizationViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICOMapLocalizationViewController.h; sourceTree = "<group>"; };
+		63DF0D181A6AB6830058B588 /* ICOMapLocalizationViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICOMapLocalizationViewController.m; sourceTree = "<group>"; };
+		63DF0D191A6AB6830058B588 /* ICOMapLocalizationViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ICOMapLocalizationViewController.xib; sourceTree = "<group>"; };
+		63DF0D1C1A6AB8190058B588 /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
+		63DF0D1F1A6ABE930058B588 /* ICOMarkAnnotation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ICOMarkAnnotation.h; sourceTree = "<group>"; };
+		63DF0D201A6ABE930058B588 /* ICOMarkAnnotation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ICOMarkAnnotation.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -42,13 +99,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		63B468D41A34705A0060575B /* Frameworks */ = {
-			isa = PBXFrameworksBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				63B468F71A35DE4A0060575B /* MessageUI.framework in Frameworks */,
+				63DF0D1E1A6AB8200058B588 /* MapKit.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,6 +110,8 @@
 		63B468BB1A3470590060575B = {
 			isa = PBXGroup;
 			children = (
+				63B468F81A35DE520060575B /* FRAMEWORKS */,
+				63B468F31A35050D0060575B /* IMAGES */,
 				63B468C61A3470590060575B /* SancalMusic */,
 				63B468DA1A34705A0060575B /* SancalMusicTests */,
 				63B468C51A3470590060575B /* Products */,
@@ -68,7 +122,6 @@
 			isa = PBXGroup;
 			children = (
 				63B468C41A3470590060575B /* SancalMusic.app */,
-				63B468D71A34705A0060575B /* SancalMusicTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -76,10 +129,13 @@
 		63B468C61A3470590060575B /* SancalMusic */ = {
 			isa = PBXGroup;
 			children = (
+				63B468EA1A34708C0060575B /* MODELS */,
 				63B468CB1A3470590060575B /* AppDelegate.h */,
 				63B468CC1A3470590060575B /* AppDelegate.m */,
+				63B468F01A34868D0060575B /* CONTROLLERS */,
 				63B468CE1A3470590060575B /* Images.xcassets */,
 				63B468D01A3470590060575B /* LaunchScreen.xib */,
+				638C338A1A4DD88300780550 /* Images-2.xcassets */,
 				63B468C71A3470590060575B /* Supporting Files */,
 			);
 			path = SancalMusic;
@@ -111,6 +167,71 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
+		63B468EA1A34708C0060575B /* MODELS */ = {
+			isa = PBXGroup;
+			children = (
+				63B468E71A3470810060575B /* iCoInstrumentsModel.h */,
+				63B468E81A3470810060575B /* iCoInstrumentsModel.m */,
+				636B60DD1A40AAD200FF0595 /* ICOStoreModel.h */,
+				636B60DE1A40AAD200FF0595 /* ICOStoreModel.m */,
+				63DF0D1F1A6ABE930058B588 /* ICOMarkAnnotation.h */,
+				63DF0D201A6ABE930058B588 /* ICOMarkAnnotation.m */,
+			);
+			name = MODELS;
+			sourceTree = "<group>";
+		};
+		63B468F01A34868D0060575B /* CONTROLLERS */ = {
+			isa = PBXGroup;
+			children = (
+				63B468EB1A34865F0060575B /* ICOINstrumentViewController.h */,
+				63B468EC1A34865F0060575B /* ICOINstrumentViewController.m */,
+				63B468ED1A34865F0060575B /* ICOINstrumentViewController.xib */,
+				636B60A51A3DFB5200FF0595 /* ICOWebViewController.h */,
+				636B60A61A3DFB5200FF0595 /* ICOWebViewController.m */,
+				636B60A71A3DFB5200FF0595 /* ICOWebViewController.xib */,
+				636B60E01A40D7BF00FF0595 /* ICOStoreTableViewController.h */,
+				636B60E11A40D7BF00FF0595 /* ICOStoreTableViewController.m */,
+				63DF0D171A6AB6830058B588 /* ICOMapLocalizationViewController.h */,
+				63DF0D181A6AB6830058B588 /* ICOMapLocalizationViewController.m */,
+				63DF0D191A6AB6830058B588 /* ICOMapLocalizationViewController.xib */,
+			);
+			name = CONTROLLERS;
+			sourceTree = "<group>";
+		};
+		63B468F31A35050D0060575B /* IMAGES */ = {
+			isa = PBXGroup;
+			children = (
+				638C33881A4DD80200780550 /* land_Launch.png */,
+				638C338C1A4DDA8F00780550 /* drum.png */,
+				638C32F91A4A172600780550 /* sectionBackground.png */,
+				638C32FA1A4A172600780550 /* sectionBackground@2x.png */,
+				636B60DB1A3FA87700FF0595 /* v-piano.jpg */,
+				636B60D91A3FA63A00FF0595 /* drum.jpg */,
+				636B60CD1A3F984000FF0595 /* icon_3@2x-1.png */,
+				636B60CE1A3F984000FF0595 /* icon_3@2x.png */,
+				638C338E1A4DDADC00780550 /* v-piano.png */,
+				636B60CF1A3F984000FF0595 /* icon_4@2x.png */,
+				636B60D01A3F984000FF0595 /* icon_5@2x.png */,
+				636B60D11A3F984000FF0595 /* icon@2x-1.png */,
+				636B60D21A3F984000FF0595 /* icon@2x.png */,
+				636B60B71A3E3F7600FF0595 /* Launch_app.png */,
+				636B60B51A3E3CF000FF0595 /* fondo_app.png */,
+				636B60A31A3DF9E000FF0595 /* guitar.png */,
+				63B468F91A35E0020060575B /* NORMAL_ICON.jpg */,
+				63B468F11A3505080060575B /* star.jpg */,
+			);
+			name = IMAGES;
+			sourceTree = "<group>";
+		};
+		63B468F81A35DE520060575B /* FRAMEWORKS */ = {
+			isa = PBXGroup;
+			children = (
+				63DF0D1C1A6AB8190058B588 /* MapKit.framework */,
+				63B468F61A35DE4A0060575B /* MessageUI.framework */,
+			);
+			name = FRAMEWORKS;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -131,39 +252,17 @@
 			productReference = 63B468C41A3470590060575B /* SancalMusic.app */;
 			productType = "com.apple.product-type.application";
 		};
-		63B468D61A34705A0060575B /* SancalMusicTests */ = {
-			isa = PBXNativeTarget;
-			buildConfigurationList = 63B468E41A34705A0060575B /* Build configuration list for PBXNativeTarget "SancalMusicTests" */;
-			buildPhases = (
-				63B468D31A34705A0060575B /* Sources */,
-				63B468D41A34705A0060575B /* Frameworks */,
-				63B468D51A34705A0060575B /* Resources */,
-			);
-			buildRules = (
-			);
-			dependencies = (
-				63B468D91A34705A0060575B /* PBXTargetDependency */,
-			);
-			name = SancalMusicTests;
-			productName = SancalMusicTests;
-			productReference = 63B468D71A34705A0060575B /* SancalMusicTests.xctest */;
-			productType = "com.apple.product-type.bundle.unit-test";
-		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
 		63B468BC1A3470590060575B /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0610;
+				LastUpgradeCheck = 0820;
 				ORGANIZATIONNAME = iCologic;
 				TargetAttributes = {
 					63B468C31A3470590060575B = {
 						CreatedOnToolsVersion = 6.1;
-					};
-					63B468D61A34705A0060575B = {
-						CreatedOnToolsVersion = 6.1;
-						TestTargetID = 63B468C31A3470590060575B;
 					};
 				};
 			};
@@ -181,7 +280,6 @@
 			projectRoot = "";
 			targets = (
 				63B468C31A3470590060575B /* SancalMusic */,
-				63B468D61A34705A0060575B /* SancalMusicTests */,
 			);
 		};
 /* End PBXProject section */
@@ -191,15 +289,30 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				636B60A41A3DF9E000FF0595 /* guitar.png in Resources */,
+				636B60D71A3F984000FF0595 /* icon@2x-1.png in Resources */,
+				636B60DC1A3FA87700FF0595 /* v-piano.jpg in Resources */,
+				638C338D1A4DDA8F00780550 /* drum.png in Resources */,
+				636B60D31A3F984000FF0595 /* icon_3@2x-1.png in Resources */,
+				636B60D81A3F984000FF0595 /* icon@2x.png in Resources */,
 				63B468D21A3470590060575B /* LaunchScreen.xib in Resources */,
+				636B60B81A3E3F7600FF0595 /* Launch_app.png in Resources */,
+				636B60D61A3F984000FF0595 /* icon_5@2x.png in Resources */,
+				63B468F21A3505080060575B /* star.jpg in Resources */,
+				638C338B1A4DD88300780550 /* Images-2.xcassets in Resources */,
+				636B60D41A3F984000FF0595 /* icon_3@2x.png in Resources */,
+				638C338F1A4DDADC00780550 /* v-piano.png in Resources */,
+				636B60A91A3DFB5200FF0595 /* ICOWebViewController.xib in Resources */,
+				63DF0D1B1A6AB6830058B588 /* ICOMapLocalizationViewController.xib in Resources */,
+				63B468EF1A34865F0060575B /* ICOINstrumentViewController.xib in Resources */,
 				63B468CF1A3470590060575B /* Images.xcassets in Resources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		63B468D51A34705A0060575B /* Resources */ = {
-			isa = PBXResourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
+				636B60D51A3F984000FF0595 /* icon_4@2x.png in Resources */,
+				638C33041A4A172600780550 /* sectionBackground@2x.png in Resources */,
+				636B60B61A3E3CF000FF0595 /* fondo_app.png in Resources */,
+				63B468FA1A35E0020060575B /* NORMAL_ICON.jpg in Resources */,
+				636B60DA1A3FA63A00FF0595 /* drum.jpg in Resources */,
+				638C33031A4A172600780550 /* sectionBackground.png in Resources */,
+				638C33891A4DD80200780550 /* land_Launch.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -210,28 +323,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				636B60A81A3DFB5200FF0595 /* ICOWebViewController.m in Sources */,
 				63B468CD1A3470590060575B /* AppDelegate.m in Sources */,
+				63B468E91A3470810060575B /* iCoInstrumentsModel.m in Sources */,
 				63B468CA1A3470590060575B /* main.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
-		63B468D31A34705A0060575B /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				63B468DE1A34705A0060575B /* SancalMusicTests.m in Sources */,
+				63B468EE1A34865F0060575B /* ICOINstrumentViewController.m in Sources */,
+				63DF0D211A6ABE930058B588 /* ICOMarkAnnotation.m in Sources */,
+				636B60DF1A40AAD200FF0595 /* ICOStoreModel.m in Sources */,
+				63DF0D1A1A6AB6830058B588 /* ICOMapLocalizationViewController.m in Sources */,
+				636B60E21A40D7BF00FF0595 /* ICOStoreTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXTargetDependency section */
-		63B468D91A34705A0060575B /* PBXTargetDependency */ = {
-			isa = PBXTargetDependency;
-			target = 63B468C31A3470590060575B /* SancalMusic */;
-			targetProxy = 63B468D81A34705A0060575B /* PBXContainerItemProxy */;
-		};
-/* End PBXTargetDependency section */
 
 /* Begin PBXVariantGroup section */
 		63B468D01A3470590060575B /* LaunchScreen.xib */ = {
@@ -258,15 +362,19 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_OPTIMIZATION_LEVEL = 0;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"DEBUG=1",
@@ -299,8 +407,10 @@
 				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
 				CLANG_WARN_EMPTY_BODY = YES;
 				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
 				CLANG_WARN_UNREACHABLE_CODE = YES;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
@@ -308,6 +418,7 @@
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
 				GCC_WARN_UNDECLARED_SELECTOR = YES;
@@ -327,7 +438,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SancalMusic/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.icologic.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Debug;
 		};
@@ -337,41 +450,9 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = SancalMusic/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.icologic.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-			};
-			name = Release;
-		};
-		63B468E51A34705A0060575B /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				GCC_PREPROCESSOR_DEFINITIONS = (
-					"DEBUG=1",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = SancalMusicTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SancalMusic.app/SancalMusic";
-			};
-			name = Debug;
-		};
-		63B468E61A34705A0060575B /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-				BUNDLE_LOADER = "$(TEST_HOST)";
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(SDKROOT)/Developer/Library/Frameworks",
-					"$(inherited)",
-				);
-				INFOPLIST_FILE = SancalMusicTests/Info.plist;
-				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
-				PRODUCT_NAME = "$(TARGET_NAME)";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/SancalMusic.app/SancalMusic";
+				TARGETED_DEVICE_FAMILY = 2;
 			};
 			name = Release;
 		};
@@ -394,14 +475,7 @@
 				63B468E31A34705A0060575B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
-		};
-		63B468E41A34705A0060575B /* Build configuration list for PBXNativeTarget "SancalMusicTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				63B468E51A34705A0060575B /* Debug */,
-				63B468E61A34705A0060575B /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
